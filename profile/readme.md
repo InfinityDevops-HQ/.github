@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We are IDevOps </h1>
+<h1 align="center">Hi 👋, We are Infinity DevOps </h1>
 <h3 align="center">Empowering Growth Through Technology.</h3>
 
 
